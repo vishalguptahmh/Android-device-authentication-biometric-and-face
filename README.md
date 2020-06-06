@@ -1,2 +1,2 @@
 # Android-device-authentication-biometric-and-face
-![GIF](video.gif)
+![GIF](https://github.com/vishalguptahmh/Android-device-authentication-biometric-and-face/blob/master/viedo.gif)
