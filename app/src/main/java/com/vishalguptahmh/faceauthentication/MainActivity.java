@@ -133,7 +133,7 @@ public class MainActivity extends AppCompatActivity {
                 .setSubtitle("Biometric subtitle")
                 .setDescription("Biometric Description")
                 .setDeviceCredentialAllowed(true)
-                .setConfirmationRequired(true)
+                .setConfirmationRequired(false)
                 .build();
     }
 
